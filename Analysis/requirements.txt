@@ -2,3 +2,6 @@ ipywidgets
 xarray
 holoviews
 bokeh
+cftime
+nc-time-axis
+
