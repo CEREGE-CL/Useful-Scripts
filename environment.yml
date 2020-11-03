@@ -2,3 +2,7 @@ channels:
     - conda-forge
 dependencies:
     - cartopy
+    - pip
+    - pip:
+      - -r file:./NetCDF_Manipulations/requirements.txt
+      - -r file:./Analysis/requirements.txt
