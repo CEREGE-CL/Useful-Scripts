@@ -4,4 +4,8 @@ holoviews
 bokeh
 cftime
 nc-time-axis
+# Map capabilities
+geoviews
+cartopy
+pyviz
 
