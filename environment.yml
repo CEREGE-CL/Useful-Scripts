@@ -1,7 +1,10 @@
 channels:
     - conda-forge
+    - pyviz
 dependencies:
     - cartopy
+    - proj4<6
+    - geoviews
     - pip
     - pip:
       - -r file:./NetCDF_Manipulations/requirements.txt
