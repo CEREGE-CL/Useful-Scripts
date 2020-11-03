@@ -8,6 +8,5 @@ numpy
 pandas
 # Map capabilities
 geoviews
-cartopy
 pyviz
 
