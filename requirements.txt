@@ -1,4 +1,2 @@
-numpy
-pandas
 -r ./NetCDF_Manipulations/requirements.txt
 -r ./Analysis/requirements.txt

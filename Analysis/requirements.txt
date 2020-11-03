@@ -4,6 +4,8 @@ holoviews
 bokeh
 cftime
 nc-time-axis
+numpy
+pandas
 # Map capabilities
 geoviews
 cartopy
