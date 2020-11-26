@@ -1,0 +1,5 @@
+pydap
+holoviews
+panel
+xarray
+cartopy
