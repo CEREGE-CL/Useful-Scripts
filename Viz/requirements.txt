@@ -1,0 +1,8 @@
+pydap
+holoviews
+panel
+xarray
+cartopy
+pyvista
+ipygany
+ipywidgets
